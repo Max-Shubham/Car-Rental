@@ -23,6 +23,7 @@ To get started with CARRENTALS, follow these steps:
 ### Installation
 1. Clone the repository
    ```sh
+   https://github.com/Max-Shubham/Car-Rental.git
    
 2. Navigate to the project directory
  
